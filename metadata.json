@@ -1,0 +1,7 @@
+{
+  "name": "DeCent - Cafe & Brunch Barcelona",
+  "description": "Tu rincón de café de especialidad y brunch en el corazón de Barcelona. 4.8 estrellas en Google Maps. Disfruta de una experiencia gastronómica auténtica en Carrer del Consell de Cent, 167.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
